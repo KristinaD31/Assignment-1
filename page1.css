@@ -4,3 +4,9 @@
         border: 1px solid black;
         border-collapse: collapse;
       }
+
+    body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: aqua;
+        text-align: center; 
+    }
