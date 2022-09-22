@@ -44,5 +44,11 @@
          font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
          
      }
+
+     h3{
+         text-decoration: wavy;
+         color: fuchsia;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     }
     
     
