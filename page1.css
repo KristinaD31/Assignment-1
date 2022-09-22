@@ -31,4 +31,10 @@
         border-radius: 16px;
         padding: 5px;
      }
+     figure caption{
+         text-decoration: solid;
+         color:deeppink;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+     }
     
