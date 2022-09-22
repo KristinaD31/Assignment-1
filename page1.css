@@ -10,3 +10,25 @@
         background-color: aqua;
         text-align: center; 
     }
+    a{
+        text-decoration:solid;
+        color:coral;
+        background-color:cornsilk;
+        padding: 12px;
+        border-radius: 25px; 
+    }
+    
+    div{
+         margin-bottom: 10px;
+    }
+    img{
+
+        display:inline;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        width: 30%;
+        border-radius: 16px;
+        padding: 5px;
+     }
+    
