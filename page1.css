@@ -3,6 +3,8 @@
     table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
+        margin-left: auto;  
+        margin-right: auto;  
       }
 
       th {
@@ -12,6 +14,12 @@
         background-color: #04AA6D;
         color: white;
       }
+
+      td{
+          text-align: left;
+          color:black;
+          background-color: beige;
+         }
 
     body{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
