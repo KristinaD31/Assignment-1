@@ -31,10 +31,18 @@
         border-radius: 16px;
         padding: 5px;
      }
+    
      figure caption{
          text-decoration: solid;
          color:deeppink;
          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
      }
+     h1{
+         text-decoration: none;
+         color: darkorchid;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         
+     }
+    
     
